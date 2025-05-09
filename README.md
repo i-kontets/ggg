@@ -1,5 +1,6 @@
 # ga-ga-ga-magician
 
+[Google](https://www.google.com)
 
 2025年進級制作用
 ## コーディング規約
