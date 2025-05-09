@@ -1,6 +1,6 @@
 # ga-ga-ga-magician
 
-[Google](https://www.google.com)
+[figma](https://www.figma.com/design/OIGcpYzpZO8SPt73rkYwO8/ggg?node-id=0-1&t=H38MTtsCNckftgNq-1)
 
 2025年進級制作用
 ## コーディング規約
