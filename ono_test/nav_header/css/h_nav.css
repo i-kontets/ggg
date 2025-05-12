@@ -6,8 +6,8 @@
 
   .hamburger {
     position: fixed;
-    top: 10px;
-    left: 0px;
+    top: 15px;
+    left: 10px;
     z-index: 100;
     width: 84px;
     height: 60px;

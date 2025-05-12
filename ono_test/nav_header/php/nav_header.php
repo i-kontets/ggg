@@ -13,7 +13,7 @@
             require "h_nav.php";
         //     require "scan.php";
         ?>
-        
+        <img src="../img/iRevo.png" class="icon">
 
         <!--ハンバーガーメニューをrequire。理由は求人以外でheaderが必要ないため-->
     </header>
