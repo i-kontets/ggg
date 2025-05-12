@@ -1,6 +1,6 @@
 # ga-ga-ga-magician
 
-[figma]([https://www.figma.com/design/sBSrbMEUC80rd8677YUqiI/%E7%84%A1%E9%A1%8C?m=auto&t=kq7qfQeiJovPpyBW-6](https://www.figma.com/design/sBSrbMEUC80rd8677YUqiI/%E7%84%A1%E9%A1%8C?m=auto&t=kq7qfQeiJovPpyBW-6))
+[figma](https://www.figma.com/design/sBSrbMEUC80rd8677YUqiI/%E7%84%A1%E9%A1%8C?m=auto&t=kq7qfQeiJovPpyBW-6)
 
 2025年進級制作用
 ## コーディング規約
