@@ -11,7 +11,7 @@
     <header class="header">
         <?php
             require "h_nav.php";
-            require "scan.php";
+        //     require "scan.php";
         ?>
         
 
