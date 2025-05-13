@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="../css/header.css">
-    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
+    <link rel="stylesheet" href="../css/slick.css">
 </head>
 <body>
     <header class="header">
@@ -17,5 +19,36 @@
 
         <!--ハンバーガーメニューをrequire。理由は求人以外でheaderが必要ないため-->
     </header>
+    <div class="sliderArea">
+        <div class="regular slider">
+            <div>
+                <img src="https://125naroom.com/demo/img/itukanokotonokoto01.jpg" alt="125naroom">
+            </div>
+            <div>
+                <img src="https://125naroom.com/demo/img/itukanokotonokoto02.jpg" alt="125naroom">
+            </div>
+            <div>
+                <img src="https://125naroom.com/demo/img/itukanokotonokoto03.jpg" alt="125naroom">
+            </div>
+            <div>
+                <img src="https://125naroom.com/demo/img/itukanokotonokoto04.jpg" alt="125naroom">
+            </div>
+            <div>
+                <img src="https://125naroom.com/demo/img/itukanokotonokoto05.jpg" alt="125naroom">
+            </div>
+        </div>
+    </div>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <script src="../js/slick.js"></script>
 </body>
 </html>

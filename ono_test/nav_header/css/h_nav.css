@@ -6,7 +6,7 @@
 
   .hamburger {
     position: fixed;
-    top: 15px;
+    top: 20px;
     left: 10px;
     z-index: 100;
     width: 84px;
