@@ -1,0 +1,30 @@
+.bottom_boder{
+    border-bottom:solid 4px #99c8ff;
+    width: 70%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.slick-prev{
+    left: 100px;
+}
+
+.slick-next{
+    right: 130px;
+}
+
+.prev-arrow::before,
+.next-arrow::before{
+    position:absolute;
+    content: "";
+    width:10px;
+    height:10px;
+    border-right: 2px solid #FFF;
+    border-top: 2px solid #FFF;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    margin:auto;
+    transform:rotate(45deg);
+}
