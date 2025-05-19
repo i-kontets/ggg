@@ -28,3 +28,34 @@
     margin:auto;
     transform:rotate(45deg);
 }
+
+.function{
+    padding-top: 20px;
+    max-width: 95%;
+    margin: auto;
+    display: flex;
+}
+
+.function_r{
+    padding-top: 20px;
+    display: flex;
+    justify-content:flex-end;
+}
+
+/* .img_f_left{
+    display: inline-block;
+} */
+
+.index_title{
+    font-size: 3rem;
+}
+
+.index_title_right{
+    font-size: 3rem;
+    margin-left: auto;
+    text-align: right;
+}
+
+.index_p{
+    font-size: 28px;
+}

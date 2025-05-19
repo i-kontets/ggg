@@ -33,6 +33,26 @@
         </div>
     </div>
     <div class="bottom_boder"></div>
+    <div class="function">
+        <img src="img/noimg.jpeg" alt="">
+        <div>
+            <p class="index_title">サンプル</p>
+            <p class="index_p">
+                bsrthnrdetyndtynytndtynynytndetyntyntyntdyndtyntydntdy
+            </p>
+        </div>
+    </div>
+        <div class="function_r">
+            <div>
+                <p class="index_title_right">サンプル</p>
+                <p class="index_p">
+                    ntrdyndtyntyntyntynytdnhtyhntyhnhnbgdnbdtntdnb
+                </p>
+            </div>
+            <img src="img/noimg.jpeg" alt="" class="img_right">
+    </div>
+
+    
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
     <script src="nav_header/js/slick.js"></script>
