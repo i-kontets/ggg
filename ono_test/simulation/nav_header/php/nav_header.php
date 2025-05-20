@@ -1,15 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="nav_header/css/header.css">
     <link rel="stylesheet" href="nav_header/css/h_nav.css">
-
 </head>
-<body>
-    <header class="header">
+    <header class="header" id="myHeader">
         <button class="hamburger" aria-label="メニュー" aria-controls="nav-menu" aria-expanded="false">
             <span class="hamburger__line"></span>
             <span class="hamburger__line"></span>
@@ -17,7 +13,7 @@
         </button>
         <nav id="nav-menu" class="nav" aria-hidden="true">
             <ul class="nav__list">
-                <li class="nav__item"><a href="#" class="nav__link">マイページ</a></li>
+                <li class="nav__item"><a href="mypage.php" class="nav__link">マイページ</a></li>
                 <!--個人情報、資格、希望職種、希望する会社-->
                 <li class="nav__item"><a href="#" class="nav__link">求人ページ</a></li>
                 <!--従来通りの求人サイト-->
@@ -39,6 +35,3 @@
         <!--ハンバーガーメニューをrequire。理由は求人以外でheaderが必要ないため-->
     </header>
         <script src="nav_header/js/h_nav.js"></script>
-
-</body>
-</html>
