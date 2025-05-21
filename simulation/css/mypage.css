@@ -1,0 +1,35 @@
+.my_table{
+    text-align: center;
+    margin: auto;
+}
+
+.my_icon{
+    text-align: center;
+}
+
+.my_title{
+    font-size: 2.5rem;
+    color: #0056BB;
+    text-decoration: underline; /* 下線 */
+    text-decoration-thickness: 0.5em; /* 線の太さ */
+    text-decoration-color: #FFFF31; /* 線の色 */
+    text-underline-offset: -0.2em; /* 線の位置 */
+    text-decoration-skip-ink: none; /* 下線と文字列が重なる部分でも下線が省略されないようにする */
+}
+
+.my_nic{
+    color: #0056BB;
+    font-size: 1.5rem;
+}
+
+.my_user_name{
+    font-size: 2rem;
+}
+
+.my_img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    /* object-fit: none;
+    object-position:54% 36%; */
+}
