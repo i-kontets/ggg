@@ -40,6 +40,8 @@
             </table>
         </div>
 </div>
-<script src="js/standard.js"></script>
+<script src="js/standard.js">
+    console.log("test");
+</script>
 </body>
 </html>
