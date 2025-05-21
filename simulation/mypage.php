@@ -39,7 +39,51 @@
                 </tr>
             </table>
         </div>
-</div>
+        <div class="flex">
+            <div class="my_personal">
+                <table class="my_per_table">
+                    <tr>
+                        <td class="my_per_table_title">
+                            名前
+                        </td>
+                        <td class="my_per_table_child">
+                            青井らだお
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="my_per_table_title">
+                            住所
+                        </td>
+                        <td class="my_per_table_child">
+                            東京都新宿区歌舞伎町2-33-1
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="my_per_table_title">
+                            メール
+                        </td>
+                        <td class="my_per_table_child">
+                            aoi@i-seifu.jp
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="my_per_table_title">
+                            電話番号
+                        </td>
+                        <td class="my_per_table_child">
+                            0120500500
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="my_qualification">
+            </div>
+        </div>
+        <div style="text-align: center;">
+            <a href="#" class="btn-rounded">情報を追加する</a>
+        </div>
+
+    </div>
 <script src="js/standard.js">
     console.log("test");
 </script>

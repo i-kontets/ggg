@@ -1,3 +1,8 @@
+.flex{
+    display: flex;
+    width: 70%;
+    margin:60px auto;
+}
 .my_table{
     text-align: center;
     margin: auto;
@@ -33,3 +38,69 @@
     /* object-fit: none;
     object-position:54% 36%; */
 }
+
+.my_personal{
+    box-shadow: 0 0 5px gray;
+    width: 600px;
+    height: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    min-height: 250px;
+}
+
+.my_qualification{
+    box-shadow: 0 0 5px gray;
+    width: 600px;
+    height: auto;
+    margin-left: auto;
+    border-radius: 10px;
+    min-height: 250px;  
+}
+
+.my_per_table{
+    width: 90%;
+    margin: 10px auto;
+
+}
+
+.my_per_table_title{
+    font-size: 1.8rem;
+    color: #0056BB;
+    text-align: center;
+    width: 0;
+    white-space: nowrap;/*折り返しをさせない*/
+    padding: 0 10px;
+}
+
+.my_per_table_child{
+    padding-left: 50px;
+    font-size: 1.2rem;
+}
+
+.my_input_sub{
+    width: 200px;
+    height: 50px;
+    margin: 0 auto;
+}
+
+/*btnのデザイン関連*/
+  .btn-rounded {
+    display: inline-block;
+    padding: 12px 50px; /* 少し大きめのパディング */
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: #17a2b8; /* 少し落ち着いた青 */
+    border: none;
+    border-radius: 30px; /* 大きな角丸 */
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease;
+  }
+
+  .btn-rounded:hover {
+    background-color: #138496;
+  }
+  /*ここまで*/
