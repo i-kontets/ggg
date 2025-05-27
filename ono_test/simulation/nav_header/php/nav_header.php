@@ -25,8 +25,9 @@
                 <!--想定される質問はプルダウンメニューで表示、LLMやMCPにデータを食わしてチャットbotでの受け答え-->
                 <li class="nav__item"><a href="#" class="nav__link">お問い合わせ</a></li>
                 <!--チーム共通のアカウントにメールを送信できるようにする-->
-                <li class="nav__item"><a href="#" class="nav__link">ボランティア募集</a></li>
-                <!--チーム合同の許可が降りた際に本格的に作成する-->
+                <li class="nav__item"><a href="#" class="nav__link">チャット</a></li>
+                <li class="nav__item"><a href="login.php" class="nav__link">ログイン</a></li>
+
             </ul>
         </nav>
 
